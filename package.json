@@ -1,0 +1,16 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insta.js",
+  "scripts": {
+    "start": "nodemon ./insta.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-web-api": "^2.2.2",
+    "nodemon": "^2.0.19",
+    "tough-cookie-filestore2": "^1.0.0"
+  }
+}
